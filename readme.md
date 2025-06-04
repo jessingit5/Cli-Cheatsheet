@@ -13,3 +13,4 @@ status - Shows the status of changes as untracted
 add - adds file changes from the working directory to the staging area
 commit - Takes the staged snapshot and saves it to the project history
 push - Uploads local branch commits to the remote repository
+pull - Fetches changes from the remote repository and merges them into the current branch
