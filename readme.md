@@ -11,3 +11,4 @@ find - find files or directories
 clone - Copies an existing remote repository to your local machine
 status - Shows the status of changes as untracted 
 add - adds file changes from the working directory to the staging area
+commit - Takes the staged snapshot and saves it to the project history
