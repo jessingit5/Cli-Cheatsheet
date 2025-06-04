@@ -1,3 +1,6 @@
+pwd - print working directory
+cd - Changes the current directory
+ls -  list the contents of a directory
 mkdir - Make directory
 rm - Remove file
 cp - Copy file
